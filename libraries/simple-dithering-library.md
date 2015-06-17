@@ -6,7 +6,8 @@ link: https://github.com/mathewreiss/dithering
 language: C
 ---
 
-<strong>UPDATE</strong><br />
+**UPDATE** - *June 17, 2015*
+
 Can now draw any rectangle with the full range of rgb and hex colors (255x255x255!)
 See <a href="http://forums.getpebble.com/discussion/comment/144191/#Comment_144191">this comment</a> for more details!
 
